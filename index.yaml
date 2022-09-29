@@ -11,7 +11,7 @@ entries:
     digest: e3358a556ccb80da59b93e2f3c152b77b30ed3ba30c46468d5cfe16e285249a9
     name: helloapp
     urls:
-    - https://lerndevops.github.io/helm-charts/packages/helloapp-1.2.tgz
+    - https://github.com/salvathshaik/helm-charts-practice/packages/helloapp-1.2.tgz
     version: "1.2"
   - apiVersion: v2
     created: "2022-09-13T13:52:25.355458475Z"
@@ -23,7 +23,7 @@ entries:
     digest: 771e8970a7534dcd1e26a79c0cb1a01103d4e993bd4d3cbb55b4a0efe0edd5ad
     name: helloapp
     urls:
-    - https://lerndevops.github.io/helm-charts/packages/helloapp-1.0.tgz
+    - https://github.com/salvathshaik/helm-charts-practice/packages/helloapp-1.0.tgz
     version: "1.0"
   mongodb:
   - apiVersion: v2
@@ -32,7 +32,7 @@ entries:
     digest: 7fd4e6a67f5c03020688c8d78c3e65150e9cabeeee313554110d611ebc50caf8
     name: mongodb
     urls:
-    - https://lerndevops.github.io/helm-charts/packages/mongodb-1.0.tgz
+    - https://github.com/salvathshaik/helm-charts-practice/packages/mongodb-1.0.tgz
     version: "1.0"
   nginxdemo:
   - apiVersion: v2
@@ -41,7 +41,7 @@ entries:
     digest: 822fc2a72b50c0c20492cdee3552cf99cdf3b75dafecef5f4079fa5546238e82
     name: nginxdemo
     urls:
-    - https://lerndevops.github.io/helm-charts/packages/nginxdemo-0.2.tgz
+    - https://github.com/salvathshaik/helm-charts-practice/packages/nginxdemo-0.2.tgz
     version: "0.2"
   - apiVersion: v2
     created: "2022-09-13T13:52:25.35773858Z"
@@ -49,7 +49,7 @@ entries:
     digest: fd6d50c911d2d96dfb87ae6d0967057744301adfb24fa1313f961f01672aec75
     name: nginxdemo
     urls:
-    - https://lerndevops.github.io/helm-charts/packages/nginxdemo-0.1.tgz
+    - https://github.com/salvathshaik/helm-charts-practice/packages/nginxdemo-0.1.tgz
     version: "0.1"
   springbootapp:
   - apiVersion: v2
@@ -62,7 +62,7 @@ entries:
     digest: 5ca9ac9638ba47d424fe654bcfaf374c287cdf77d8d6588186206189bb97bcff
     name: springbootapp
     urls:
-    - https://lerndevops.github.io/helm-charts/packages/springbootapp-1.0.tgz
+    - https://github.com/salvathshaik/helm-charts-practice/packages/springbootapp-1.0.tgz
     version: "1.0"
   testapp:
   - apiVersion: v2
@@ -71,6 +71,6 @@ entries:
     digest: 5e7e9177b4427b4fb76c8e8c5375b3b0d3ef8c37bbb262a4dee9cbccec2eb4dd
     name: testapp
     urls:
-    - https://lerndevops.github.io/helm-charts/packages/testapp-0.1.tgz
+    - https://github.com/salvathshaik/helm-charts-practice/packages/testapp-0.1.tgz
     version: "0.1"
 generated: "2022-09-13T13:52:25.35408303Z"
